@@ -1,0 +1,23 @@
+
+streamlit
+pytesseract
+opencv-python
+numpy
+pandas
+scikit-learn
+pdf2image
+streamlit
+pytesseract
+opencv-python
+numpy
+pandas
+scikit-learn
+pdf2image
+pymupdf  # (For direct text extraction from PDFs)
+torch  # (If using AI/ML)
+textblob
+translate
+pillow
+language_tool_python
+matplotlib
+seaborn
